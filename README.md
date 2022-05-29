@@ -11,4 +11,4 @@ After cleaning, Exploratory Data Analysis was performed. Was able to answer foll
 3. Which two products are often sold together?
 4. What time is best to display advertisements for the store in order to generate more sales?
 
-This analysis can be used by the store to generate more sales by attracting more customers, by offereing promotions on multiple combo deals. Providing deals on hot selling products.etc
+This analysis can be used by the store to generate more sales by attracting more customers, by offering promotions on multiple combo deals. Providing deals on hot selling products.etc
