@@ -1,4 +1,5 @@
-# myproject
+# Sales Analysis Project using Python
+
 In this project I have used 12 months of sales data of US customers and utilised my knowledge of Python Pandas and Matplotlib to analyze and answer business questions for the store. The dataset contains about electronic store purchases of different cities in US broken down by month, address, product type, quantity, and cost.
 Tasks performed during my anaysis:
 1. Droping all NAN values.
